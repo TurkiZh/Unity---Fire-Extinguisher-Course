@@ -11,3 +11,5 @@ PASS method:
 Other practices i applyied in this project:
 - Changing the controllers visuals in the VR scene to hands with animations
 - VR teleportation
+
+Note: 3D assets were taken from Unity Asset Market and Sketchfap, 
